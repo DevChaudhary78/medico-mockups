@@ -19,4 +19,13 @@
   
   <!-- Role -->
   <text x="300" y="230" font-family="Hack Nerd Font" font-size="16" fill="#bdae93">Role: Patient</text>
+  
+  <!-- Edit Profile Button -->
+  <g transform="translate(300, 270)">
+    <!-- Button Background -->
+    <rect x="0" y="0" width="150" height="40" rx="8" fill="#504945"/>
+    
+    <!-- Button Text -->
+    <text x="75" y="25" font-family="Hack Nerd Font" font-size="14" text-anchor="middle" fill="#ebdbb2">Edit Profile</text>
+  </g>
 </svg>
