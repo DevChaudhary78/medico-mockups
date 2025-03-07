@@ -12,9 +12,10 @@
   <text x="616" y="80" font-family="Hack Nerd Font" font-size="18" fill="#ebdbb2">Home</text>
   <text x="616" y="120" font-family="Hack Nerd Font" font-size="18" fill="#ebdbb2">Profile</text>
   <text x="616" y="160" font-family="Hack Nerd Font" font-size="18" fill="#ebdbb2">Medication History</text>
-  <text x="616" y="200" font-family="Hack Nerd Font" font-size="18" fill="#ebdbb2">Admin Dashboard</text>
+  <text x="616" y="200" font-family="Hack Nerd Font" font-size="18" fill="#ebdbb2">Request Visit</text>
   <text x="616" y="240" font-family="Hack Nerd Font" font-size="18" fill="#ebdbb2">Doctor Dashboard</text>
-  <text x="616" y="280" font-family="Hack Nerd Font" font-size="18" fill="#ebdbb2">Request Visit</text>
+  <text x="616" y="280" font-family="Hack Nerd Font" font-size="18" fill="#ebdbb2">Visit Manager</text>
+  <text x="616" y="320" font-family="Hack Nerd Font" font-size="18" fill="#ebdbb2">Admin Dashboard</text>
   
   <!-- Logout Button -->
   <rect x="616" y="354" width="260" height="40" rx="4" ry="4" fill="#fb4934"/>

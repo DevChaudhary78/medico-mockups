@@ -1,0 +1,49 @@
+<svg width="414" height="896" viewBox="0 0 414 896" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="414" height="896" fill="#1d2021"/>
+  
+  <!-- Header -->
+  <rect width="414" height="60" fill="#3c3836"/>
+  <text x="20" y="38" font-family="Hack Nerd Font" font-size="20" font-weight="500" fill="#ebdbb2">Visit Requests</text>
+  <text x="394" y="38" font-family="Hack Nerd Font" font-size="20" text-anchor="end" fill="#ebdbb2">☰</text>
+
+  <!-- Filter Tabs -->
+  <rect x="20" y="70" width="374" height="40" rx="4" ry="4" fill="#3c3836"/>
+  <rect x="20" y="70" width="124" height="40" rx="4" ry="4" fill="#504945"/>
+  <text x="82" y="95" font-family="Hack Nerd Font" font-size="14" text-anchor="middle" fill="#ebdbb2">Pending</text>
+  <text x="207" y="95" font-family="Hack Nerd Font" font-size="14" text-anchor="middle" fill="#bdae93">Approved</text>
+  <text x="332" y="95" font-family="Hack Nerd Font" font-size="14" text-anchor="middle" fill="#bdae93">Rejected</text>
+  
+  <!-- Visit Request 1 -->
+  <rect x="20" y="120" width="374" height="160" rx="4" ry="4" fill="#3c3836" stroke="#504945" stroke-width="1"/>
+  <text x="30" y="145" font-family="Hack Nerd Font" font-size="16" font-weight="500" fill="#b8bb26">John Doe</text>
+  <text x="30" y="170" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">Date Requested: March 5, 2025</text>
+  <text x="30" y="195" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">Preferred Date: March 10, 2025</text>
+  <text x="30" y="220" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">Reason: Annual checkup</text>
+  <rect x="30" y="235" width="160" height="30" rx="4" ry="4" fill="#689d6a"/>
+  <text x="110" y="255" font-family="Hack Nerd Font" font-size="12" text-anchor="middle" fill="#ebdbb2">APPROVE</text>
+  <rect x="204" y="235" width="160" height="30" rx="4" ry="4" fill="#cc241d"/>
+  <text x="284" y="255" font-family="Hack Nerd Font" font-size="12" text-anchor="middle" fill="#ebdbb2">REJECT</text>
+  
+  <!-- Visit Request 2 -->
+  <rect x="20" y="290" width="374" height="160" rx="4" ry="4" fill="#3c3836" stroke="#504945" stroke-width="1"/>
+  <text x="30" y="315" font-family="Hack Nerd Font" font-size="16" font-weight="500" fill="#fabd2f">Jane Smith</text>
+  <text x="30" y="340" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">Date Requested: March 6, 2025</text>
+  <text x="30" y="365" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">Preferred Date: March 15, 2025</text>
+  <text x="30" y="390" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">Reason: Persistent headaches</text>
+  <rect x="30" y="405" width="160" height="30" rx="4" ry="4" fill="#689d6a"/>
+  <text x="110" y="425" font-family="Hack Nerd Font" font-size="12" text-anchor="middle" fill="#ebdbb2">APPROVE</text>
+  <rect x="204" y="405" width="160" height="30" rx="4" ry="4" fill="#cc241d"/>
+  <text x="284" y="425" font-family="Hack Nerd Font" font-size="12" text-anchor="middle" fill="#ebdbb2">REJECT</text>
+  
+  <!-- Visit Request 3 -->
+  <rect x="20" y="460" width="374" height="160" rx="4" ry="4" fill="#3c3836" stroke="#504945" stroke-width="1"/>
+  <text x="30" y="485" font-family="Hack Nerd Font" font-size="16" font-weight="500" fill="#83a598">Robert Johnson</text>
+  <text x="30" y="510" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">Date Requested: March 7, 2025</text>
+  <text x="30" y="535" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">Preferred Date: March 12, 2025</text>
+  <text x="30" y="560" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">Reason: Follow-up appointment</text>
+  <rect x="30" y="575" width="160" height="30" rx="4" ry="4" fill="#689d6a"/>
+  <text x="110" y="595" font-family="Hack Nerd Font" font-size="12" text-anchor="middle" fill="#ebdbb2">APPROVE</text>
+  <rect x="204" y="575" width="160" height="30" rx="4" ry="4" fill="#cc241d"/>
+  <text x="284" y="595" font-family="Hack Nerd Font" font-size="12" text-anchor="middle" fill="#ebdbb2">REJECT</text>
+</svg>

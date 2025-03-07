@@ -28,4 +28,14 @@
     <!-- Button Text -->
     <text x="75" y="25" font-family="Hack Nerd Font" font-size="14" text-anchor="middle" fill="#ebdbb2">Edit Profile</text>
   </g>
+  
+  <!-- Delete Account Button -->
+  <g transform="translate(300, 330)">
+    <!-- Button Background -->
+    <rect x="0" y="0" width="150" height="40" rx="8" fill="#cc241d"/>
+    
+    <!-- Button Text -->
+    <text x="75" y="25" font-family="Hack Nerd Font" font-size="14" text-anchor="middle" fill="#ebdbb2">Delete Account</text>
+  </g>
 </svg>
+

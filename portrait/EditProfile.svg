@@ -1,0 +1,47 @@
+<svg width="414" height="896" viewBox="0 0 414 896" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="414" height="896" fill="#1d2021"/>
+  
+  <!-- Header -->
+  <rect width="414" height="60" fill="#3c3836"/>
+  <text x="20" y="38" font-family="Hack Nerd Font" font-size="20" font-weight="500" fill="#ebdbb2">Edit Profile</text>
+  <text x="394" y="38" font-family="Hack Nerd Font" font-size="20" text-anchor="end" fill="#ebdbb2">←</text>
+  
+  <!-- Profile Picture Section -->
+  <circle cx="207" cy="130" r="50" fill="#504945"/>
+  <text x="207" y="145" font-family="Hack Nerd Font" font-size="30" text-anchor="middle" fill="#ebdbb2">JD</text>
+  
+  <!-- Change Photo Button -->
+  <rect x="132" y="190" width="150" height="30" rx="5" fill="#504945"/>
+  <text x="207" y="210" font-family="Hack Nerd Font" font-size="12" text-anchor="middle" fill="#ebdbb2">Change Photo</text>
+  
+  <!-- Form Fields -->
+  <!-- Name Field -->
+  <text x="40" y="260" font-family="Hack Nerd Font" font-size="14" fill="#ebdbb2">Name</text>
+  <rect x="40" y="270" width="334" height="50" rx="5" fill="#3c3836"/>
+  <text x="55" y="300" font-family="Hack Nerd Font" font-size="16" fill="#ebdbb2">John Doe</text>
+  
+  <!-- Email Field (Disabled) -->
+  <text x="40" y="350" font-family="Hack Nerd Font" font-size="14" fill="#ebdbb2">Email</text>
+  <rect x="40" y="360" width="334" height="50" rx="5" fill="#282828"/>
+  <text x="55" y="390" font-family="Hack Nerd Font" font-size="16" fill="#928374">johndoe@example.com</text>
+  <rect x="40" y="360" width="334" height="50" rx="5" fill="#282828" fill-opacity="0.5"/>
+  
+  <!-- Password Field -->
+  <text x="40" y="440" font-family="Hack Nerd Font" font-size="14" fill="#ebdbb2">Password</text>
+  <rect x="40" y="450" width="334" height="50" rx="5" fill="#3c3836"/>
+  <text x="55" y="480" font-family="Hack Nerd Font" font-size="16" fill="#ebdbb2">••••••••</text>
+  
+  <!-- Confirm Password Field -->
+  <text x="40" y="530" font-family="Hack Nerd Font" font-size="14" fill="#ebdbb2">Confirm Password</text>
+  <rect x="40" y="540" width="334" height="50" rx="5" fill="#3c3836"/>
+  <text x="55" y="570" font-family="Hack Nerd Font" font-size="16" fill="#ebdbb2">••••••••</text>
+  
+  <!-- Submit Button -->
+  <rect x="107" y="630" width="200" height="50" rx="8" fill="#689d6a"/>
+  <text x="207" y="660" font-family="Hack Nerd Font" font-size="16" text-anchor="middle" font-weight="500" fill="#ebdbb2">Save Changes</text>
+  
+  <!-- Cancel Button -->
+  <rect x="107" y="700" width="200" height="50" rx="8" fill="#504945"/>
+  <text x="207" y="730" font-family="Hack Nerd Font" font-size="16" text-anchor="middle" font-weight="500" fill="#ebdbb2">Cancel</text>
+</svg>
