@@ -14,6 +14,7 @@
   <text x="134" y="200" font-family="Hack Nerd Font" font-size="18" fill="#ebdbb2">Medication History</text>
   <text x="134" y="250" font-family="Hack Nerd Font" font-size="18" fill="#ebdbb2">Admin Dashboard</text>
   <text x="134" y="300" font-family="Hack Nerd Font" font-size="18" fill="#ebdbb2">Doctor Dashboard</text>
+  <text x="134" y="350" font-family="Hack Nerd Font" font-size="18" fill="#ebdbb2">Request Visit</text>
   
   <!-- Logout Button -->
   <rect x="134" y="816" width="260" height="40" rx="4" ry="4" fill="#fb4934"/>
