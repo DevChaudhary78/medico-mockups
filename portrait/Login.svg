@@ -22,4 +22,10 @@
     <tspan>New here?</tspan>
     <tspan font-weight="500" fill="#83a598"> Register</tspan>
   </text>
+  
+  <!-- Forgot Password Text -->
+  <text x="207" y="550" font-family="Hack Nerd Font" font-size="14" text-anchor="middle" fill="#bdae93">
+    <tspan>Forgot password?</tspan>
+    <tspan font-weight="500" fill="#83a598"> reset password</tspan>
+  </text>
 </svg>
