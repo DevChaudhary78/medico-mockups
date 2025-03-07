@@ -1,0 +1,40 @@
+<svg width="896" height="414" viewBox="0 0 896 414" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="896" height="414" fill="#1d2021"/>
+  
+  <!-- Header -->
+  <rect width="896" height="60" fill="#3c3836"/>
+  <text x="20" y="38" font-family="Hack Nerd Font" font-size="20" font-weight="500" fill="#ebdbb2">Register</text>
+  
+  <!-- Left Column -->
+  <!-- Full Name Field -->
+  <text x="20" y="90" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">Full Name</text>
+  <rect x="20" y="100" width="420" height="50" rx="4" ry="4" fill="#3c3836" stroke="#504945" stroke-width="1"/>
+  <text x="30" y="132" font-family="Hack Nerd Font" font-size="16" fill="#ebdbb2">John Doe</text>
+  
+  <!-- Email Field -->
+  <text x="20" y="180" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">Email</text>
+  <rect x="20" y="190" width="420" height="50" rx="4" ry="4" fill="#3c3836" stroke="#504945" stroke-width="1"/>
+  <text x="30" y="222" font-family="Hack Nerd Font" font-size="16" fill="#ebdbb2">johndoe@example.com</text>
+  
+  <!-- Right Column -->
+  <!-- Password Field -->
+  <text x="456" y="90" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">Password</text>
+  <rect x="456" y="100" width="420" height="50" rx="4" ry="4" fill="#3c3836" stroke="#504945" stroke-width="1"/>
+  <text x="466" y="132" font-family="Hack Nerd Font" font-size="16" fill="#ebdbb2">••••••••</text>
+  
+  <!-- Confirm Password Field -->
+  <text x="456" y="180" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">Confirm Password</text>
+  <rect x="456" y="190" width="420" height="50" rx="4" ry="4" fill="#3c3836" stroke="#504945" stroke-width="1"/>
+  <text x="466" y="222" font-family="Hack Nerd Font" font-size="16" fill="#ebdbb2">••••••••</text>
+  
+  <!-- Register Button -->
+  <rect x="328" y="270" width="240" height="50" rx="4" ry="4" fill="#b8bb26"/>
+  <text x="448" y="302" font-family="Hack Nerd Font" font-size="18" font-weight="500" text-anchor="middle" fill="#1d2021">REGISTER</text>
+  
+  <!-- Login Text -->
+  <text x="448" y="350" font-family="Hack Nerd Font" font-size="14" text-anchor="middle" fill="#bdae93">
+    <tspan>Already have an account?</tspan>
+    <tspan font-weight="500" fill="#83a598"> Login</tspan>
+  </text>
+</svg>

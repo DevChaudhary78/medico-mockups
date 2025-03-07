@@ -1,0 +1,51 @@
+
+<svg width="895" height="414" viewBox="0 0 896 414" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="895" height="414" fill="#1d2021"/>
+  
+  <!-- Header -->
+  <rect width="895" height="60" fill="#3c3836"/>
+  <text x="19" y="38" font-family="Hack Nerd Font" font-size="20" font-weight="500" fill="#ebdbb2">MedTracker</text>
+  <text x="875" y="38" font-family="Hack Nerd Font" font-size="20" text-anchor="end" fill="#ebdbb2">☰</text>
+  
+  <!-- Welcome Section -->
+  <text x="19" y="90" font-family="Hack Nerd Font" font-size="18" fill="#ebdbb2">Welcome, John Smith</text>
+  
+  <!-- Today's Medications Section -->
+  <text x="19" y="120" font-family="Hack Nerd Font" font-size="16" font-weight="500" fill="#ebdbb2">Today's Medications</text>
+  
+  <!-- Medication Cards (Horizontal Layout) -->
+  <!-- Medication Card 0 -->
+  <rect x="19" y="140" width="270" height="180" rx="4" ry="4" fill="#3c3836" stroke="#504945" stroke-width="1"/>
+  <text x="29" y="165" font-family="Hack Nerd Font" font-size="16" font-weight="500" fill="#b8bb26">Lisinopril 10mg</text>
+  <text x="29" y="190" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">8:00 AM - Take with food</text>
+  <text x="29" y="215" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">Status: Taken at 8:05 AM</text>
+  <rect x="29" y="235" width="80" height="25" rx="4" ry="4" fill="#98971a"/>
+  <text x="69" y="252" font-family="Hack Nerd Font" font-size="12" text-anchor="middle" fill="#1d2021">TAKEN</text>
+  
+  <!-- Medication Card 1 -->
+  <rect x="309" y="140" width="270" height="180" rx="4" ry="4" fill="#3c3836" stroke="#504945" stroke-width="1"/>
+  <text x="319" y="165" font-family="Hack Nerd Font" font-size="16" font-weight="500" fill="#fabd2f">Metformin 500mg</text>
+  <text x="319" y="190" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">1:00 PM - Take with lunch</text>
+  <text x="319" y="215" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">Status: Due in 2 hours</text>
+  <rect x="319" y="235" width="80" height="25" rx="4" ry="4" fill="#504945"/>
+  <text x="359" y="252" font-family="Hack Nerd Font" font-size="12" text-anchor="middle" fill="#ebdbb2">DUE</text>
+  
+  <!-- Medication Card 2 -->
+  <rect x="599" y="140" width="270" height="180" rx="4" ry="4" fill="#3c3836" stroke="#504945" stroke-width="1"/>
+  <text x="609" y="165" font-family="Hack Nerd Font" font-size="16" font-weight="500" fill="#fabd2f">Atorvastatin 20mg</text>
+  <text x="609" y="190" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">8:00 PM - Take with dinner</text>
+  <text x="609" y="215" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">Status: Due in 9 hours</text>
+  <rect x="609" y="235" width="80" height="25" rx="4" ry="4" fill="#504945"/>
+  <text x="649" y="252" font-family="Hack Nerd Font" font-size="12" text-anchor="middle" fill="#ebdbb2">DUE</text>
+  
+  <!-- Add Medication Button -->
+  <circle cx="839" cy="340" r="30" fill="#b8bb26"/>
+  <text x="839" y="348" font-family="Hack Nerd Font" font-size="24" text-anchor="middle" fill="#1d2021">+</text>
+  
+  <!-- Navigation Bar -->
+  <rect y="353" width="896" height="60" fill="#3c3836"/>
+  <text x="148" y="390" font-family="Hack Nerd Font" font-size="12" text-anchor="middle" fill="#b8bb26">HOME</text>
+  <text x="447" y="390" font-family="Hack Nerd Font" font-size="12" text-anchor="middle" fill="#bdae93">HISTORY</text>
+  <text x="746" y="390" font-family="Hack Nerd Font" font-size="12" text-anchor="middle" fill="#bdae93">PROFILE</text>
+</svg>

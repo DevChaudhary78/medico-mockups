@@ -1,0 +1,26 @@
+<svg width="414" height="896" viewBox="0 0 414 896" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="414" height="896" fill="#1d2021"/>
+  
+  <!-- Header -->
+  <rect width="414" height="60" fill="#3c3836"/>
+  <text x="20" y="38" font-family="Hack Nerd Font" font-size="20" font-weight="500" fill="#ebdbb2">Admin Dashboard</text>
+  <text x="394" y="38" font-family="Hack Nerd Font" font-size="20" text-anchor="end" fill="#ebdbb2">☰</text>
+  
+  <!-- Search Bar -->
+  <rect x="20" y="80" width="374" height="40" rx="4" ry="4" fill="#3c3836" stroke="#504945" stroke-width="1"/>
+  <text x="40" y="107" font-family="Hack Nerd Font" font-size="16" fill="#bdae93">Search user...</text>
+  
+  <!-- User List -->
+  <rect x="20" y="140" width="374" height="80" rx="4" ry="4" fill="#3c3836" stroke="#504945" stroke-width="1"/>
+  <text x="30" y="165" font-family="Hack Nerd Font" font-size="16" font-weight="500" fill="#b8bb26">Dr. Jane Smith</text>
+  <text x="30" y="190" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">Role: Doctor</text>
+  <rect x="300" y="155" width="80" height="30" rx="4" ry="4" fill="#504945"/>
+  <text x="340" y="175" font-family="Hack Nerd Font" font-size="12" text-anchor="middle" fill="#ebdbb2">CHANGE</text>
+  
+  <rect x="20" y="230" width="374" height="80" rx="4" ry="4" fill="#3c3836" stroke="#504945" stroke-width="1"/>
+  <text x="30" y="255" font-family="Hack Nerd Font" font-size="16" font-weight="500" fill="#fabd2f">John Doe</text>
+  <text x="30" y="280" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">Role: Patient</text>
+  <rect x="300" y="245" width="80" height="30" rx="4" ry="4" fill="#504945"/>
+  <text x="340" y="265" font-family="Hack Nerd Font" font-size="12" text-anchor="middle" fill="#ebdbb2">CHANGE</text>
+</svg>

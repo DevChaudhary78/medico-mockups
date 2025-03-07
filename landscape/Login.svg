@@ -1,0 +1,25 @@
+<svg width="896" height="414" viewBox="0 0 896 414" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="896" height="414" fill="#1d2021"/>
+  
+  <!-- Title -->
+  <text x="448" y="80" font-family="Hack Nerd Font" font-size="28" font-weight="500" text-anchor="middle" fill="#ebdbb2">Login</text>
+  
+  <!-- Email Field -->
+  <rect x="298" y="120" width="300" height="50" rx="4" ry="4" fill="#3c3836" stroke="#504945" stroke-width="1"/>
+  <text x="318" y="152" font-family="Hack Nerd Font" font-size="16" fill="#bdae93">Email</text>
+  
+  <!-- Password Field -->
+  <rect x="298" y="190" width="300" height="50" rx="4" ry="4" fill="#3c3836" stroke="#504945" stroke-width="1"/>
+  <text x="318" y="222" font-family="Hack Nerd Font" font-size="16" fill="#bdae93">Password</text>
+  
+  <!-- Login Button -->
+  <rect x="298" y="260" width="300" height="46" rx="4" ry="4" fill="#b8bb26"/>
+  <text x="448" y="288" font-family="Hack Nerd Font" font-size="16" font-weight="500" text-anchor="middle" fill="#1d2021">LOGIN</text>
+  
+  <!-- Register Text -->
+  <text x="448" y="330" font-family="Hack Nerd Font" font-size="14" text-anchor="middle" fill="#bdae93">
+    <tspan>New here?</tspan>
+    <tspan font-weight="500" fill="#83a598"> Register</tspan>
+  </text>
+</svg>

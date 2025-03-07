@@ -1,0 +1,44 @@
+<svg width="896" height="414" viewBox="0 0 896 414" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="896" height="414" fill="#1d2021"/>
+  
+  <!-- Header -->
+  <rect width="896" height="60" fill="#3c3836"/>
+  <text x="20" y="38" font-family="Hack Nerd Font" font-size="20" font-weight="500" fill="#ebdbb2">Add Medication</text>
+  <text x="876" y="38" font-family="Hack Nerd Font" font-size="20" text-anchor="end" fill="#ebdbb2">✕</text>
+  
+  <!-- Left Column -->
+  <text x="20" y="90" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">Medication Name</text>
+  <rect x="20" y="100" width="420" height="40" rx="4" ry="4" fill="#3c3836" stroke="#504945" stroke-width="1"/>
+  <text x="30" y="127" font-family="Hack Nerd Font" font-size="16" fill="#ebdbb2">Metoprolol</text>
+  
+  <text x="20" y="160" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">Dosage</text>
+  <rect x="20" y="170" width="420" height="40" rx="4" ry="4" fill="#3c3836" stroke="#504945" stroke-width="1"/>
+  <text x="30" y="197" font-family="Hack Nerd Font" font-size="16" fill="#ebdbb2">50 mg</text>
+  
+  <text x="20" y="230" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">Frequency</text>
+  <rect x="20" y="240" width="420" height="40" rx="4" ry="4" fill="#3c3836" stroke="#504945" stroke-width="1"/>
+  <text x="30" y="267" font-family="Hack Nerd Font" font-size="16" fill="#ebdbb2">Twice daily</text>
+  
+  <!-- Right Column -->
+  <text x="456" y="90" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">Time</text>
+  <rect x="456" y="100" width="420" height="40" rx="4" ry="4" fill="#3c3836" stroke="#504945" stroke-width="1"/>
+  <text x="466" y="127" font-family="Hack Nerd Font" font-size="16" fill="#ebdbb2">8:00 AM, 8:00 PM</text>
+  
+  <text x="456" y="160" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">Start Date</text>
+  <rect x="456" y="170" width="420" height="40" rx="4" ry="4" fill="#3c3836" stroke="#504945" stroke-width="1"/>
+  <text x="466" y="197" font-family="Hack Nerd Font" font-size="16" fill="#ebdbb2">2025-03-06</text>
+  
+  <text x="456" y="230" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">End Date (Optional)</text>
+  <rect x="456" y="240" width="420" height="40" rx="4" ry="4" fill="#3c3836" stroke="#504945" stroke-width="1"/>
+  <text x="466" y="267" font-family="Hack Nerd Font" font-size="16" fill="#ebdbb2">2025-06-06</text>
+  
+  <!-- Instructions -->
+  <text x="20" y="300" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">Instructions</text>
+  <rect x="20" y="310" width="856" height="40" rx="4" ry="4" fill="#3c3836" stroke="#504945" stroke-width="1"/>
+  <text x="30" y="337" font-family="Hack Nerd Font" font-size="16" fill="#ebdbb2">Take with food. Avoid grapefruit juice.</text>
+  
+  <!-- Add Button -->
+  <rect x="328" y="364" width="240" height="40" rx="4" ry="4" fill="#b8bb26"/>
+  <text x="448" y="391" font-family="Hack Nerd Font" font-size="18" font-weight="500" text-anchor="middle" fill="#1d2021">ADD MEDICATION</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg width="414" height="896" viewBox="0 0 414 896" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="414" height="896" fill="#1d2021"/>
+  
+  <!-- Header -->
+  <rect width="414" height="60" fill="#3c3836"/>
+  <text x="20" y="38" font-family="Hack Nerd Font" font-size="20" font-weight="500" fill="#ebdbb2">Profile</text>
+  <text x="394" y="38" font-family="Hack Nerd Font" font-size="20" text-anchor="end" fill="#ebdbb2">☰</text>
+  
+  <!-- Profile Picture Placeholder -->
+  <circle cx="207" cy="150" r="60" fill="#504945"/>
+  <text x="207" y="170" font-family="Hack Nerd Font" font-size="40" text-anchor="middle" fill="#ebdbb2">JD</text>
+  
+  <!-- Name -->
+  <text x="207" y="250" font-family="Hack Nerd Font" font-size="24" font-weight="500" text-anchor="middle" fill="#ebdbb2">John Doe</text>
+  
+  <!-- Email -->
+  <text x="207" y="280" font-family="Hack Nerd Font" font-size="16" text-anchor="middle" fill="#bdae93">johndoe@example.com</text>
+  
+  <!-- Role -->
+  <text x="207" y="310" font-family="Hack Nerd Font" font-size="16" text-anchor="middle" fill="#bdae93">Role: Patient</text>
+</svg>
