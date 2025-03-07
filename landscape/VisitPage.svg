@@ -1,0 +1,40 @@
+<svg width="896" height="414" viewBox="0 0 896 414" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="896" height="414" fill="#1d2021"/>
+  
+  <!-- Header -->
+  <rect width="896" height="60" fill="#3c3836"/>
+  <text x="20" y="38" font-family="Hack Nerd Font" font-size="20" font-weight="500" fill="#ebdbb2">Visits</text>
+  <text x="876" y="38" font-family="Hack Nerd Font" font-size="20" text-anchor="end" fill="#ebdbb2">☰</text>
+  
+  <!-- Filter/Search Bar -->
+  <rect x="20" y="70" width="856" height="40" rx="5" fill="#3c3836"/>
+  <text x="40" y="95" font-family="Hack Nerd Font" font-size="14" fill="#928374">Search visits...</text>
+  <text x="836" y="95" font-family="Hack Nerd Font" font-size="14" text-anchor="end" fill="#928374">⌕</text>
+  
+  <!-- Visit Cards -->
+  <!-- Visit 1 -->
+  <rect x="20" y="120" width="856" height="80" rx="5" fill="#504945"/>
+  <text x="40" y="145" font-family="Hack Nerd Font" font-size="16" font-weight="500" fill="#ebdbb2">Dr. Sarah Johnson - Cardiology</text>
+  <text x="40" y="170" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">March 15, 2025 - 10:30 AM</text>
+  <rect x="756" y="140" width="100" height="30" rx="5" fill="#689d6a"/>
+  <text x="806" y="160" font-family="Hack Nerd Font" font-size="12" text-anchor="middle" fill="#ebdbb2">Confirmed</text>
+  
+  <!-- Visit 2 -->
+  <rect x="20" y="210" width="856" height="80" rx="5" fill="#504945"/>
+  <text x="40" y="235" font-family="Hack Nerd Font" font-size="16" font-weight="500" fill="#ebdbb2">Dr. Michael Chen - Dermatology</text>
+  <text x="40" y="260" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">March 22, 2025 - 2:15 PM</text>
+  <rect x="756" y="230" width="100" height="30" rx="5" fill="#d79921"/>
+  <text x="806" y="250" font-family="Hack Nerd Font" font-size="12" text-anchor="middle" fill="#1d2021">Pending</text>
+  
+  <!-- Visit 3 -->
+  <rect x="20" y="300" width="856" height="80" rx="5" fill="#504945"/>
+  <text x="40" y="325" font-family="Hack Nerd Font" font-size="16" font-weight="500" fill="#ebdbb2">Dr. Emily Wilson - Neurology</text>
+  <text x="40" y="350" font-family="Hack Nerd Font" font-size="14" fill="#bdae93">April 5, 2025 - 9:00 AM</text>
+  <rect x="756" y="320" width="100" height="30" rx="5" fill="#cc241d"/>
+  <text x="806" y="340" font-family="Hack Nerd Font" font-size="12" text-anchor="middle" fill="#ebdbb2">Cancelled</text>
+  
+  <!-- Add New Visit Button -->
+  <circle cx="826" cy="364" r="30" fill="#458588"/>
+  <text x="826" y="370" font-family="Hack Nerd Font" font-size="24" text-anchor="middle" fill="#ebdbb2">+</text>
+</svg>
